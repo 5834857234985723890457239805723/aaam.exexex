@@ -3,7 +3,7 @@ keyboard
 opencv-python
 ctypes
 string
-numpy as np
+numpy
 sys
 smtplib
 getpass
