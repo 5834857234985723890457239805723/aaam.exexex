@@ -1,0 +1,25 @@
+fade
+keyboard
+opencv-python
+ctypes
+string
+numpy as np
+sys
+smtplib
+getpass
+threading
+pystyle
+time
+random
+zlib
+lzma
+base64
+os
+json
+datetime
+requests
+PIL
+marshal
+colorama
+phonenumbers
+Fore
